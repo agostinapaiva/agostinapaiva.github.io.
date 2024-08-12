@@ -1,0 +1,17 @@
+#img{
+    width: medium;
+    height: medium;
+}
+
+.Introduction,.Languages,.contact,#img {
+    text-align:center;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+    color: black;
+}
+
+#box{
+    background-color: skyblue;
+}
